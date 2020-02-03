@@ -1,0 +1,44 @@
+<Exchange>
+    <Users>
+        <User>
+            <Name>Ivan</Name>
+            <LastName>Mashkantsev</LastName>
+            <Gender>M</Gender>
+            <Email>email@mail.ru</Email>
+            <ImportantDates>
+                <date type="employingDate">2019-10-01</date>
+                <date type="birthDayDate">1990-01-01</date>
+            </ImportantDates>
+        </User>
+        <User>
+            <Name>Petr</Name>
+            <LastName>Petrov</LastName>
+            <Gender>M</Gender>
+            <Email>email@mail.ru</Email>
+            <ImportantDates>
+                <date type="employingDate">2010-10-01</date>
+                <date type="birthDayDate">1970-02-30</date>
+            </ImportantDates>
+        </User>
+        <User>
+            <Name>Vasya</Name>
+            <LastName>Smirnov</LastName>
+            <Gender>M</Gender>
+            <Email>email@mail.ru</Email>
+            <ImportantDates>
+                <date type="employingDate">2010-10-01</date>
+                <date type="birthDayDate">1970-02-15</date>
+            </ImportantDates>
+        </User>
+        <User>
+            <Name>Kotan</Name>
+            <LastName>Kotanov</LastName>
+            <Gender>M</Gender>
+            <Email>email@mail.ru</Email>
+            <ImportantDates>
+                <date type="employingDate">2010-10-01</date>
+                <date type="birthDayDate">1970-03-20</date>
+            </ImportantDates>
+        </User>
+    </Users>
+</Exchange>
